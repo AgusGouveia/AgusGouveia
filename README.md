@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello there, I'm Agustín Gouveia!👋
 
-<!--
-**AgusGouveia/AgusGouveia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**About me**
 
-Here are some ideas to get you started:
+A developing programmer with experience in his bootcamp project and wishing to evolve in the world of creating code. I'm currently working to improve my programming skills and knowledge to become a Big Data professional in the near future :grinning: <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Python & Javascript.
+- 👁️ HTML & CSS.
+- 💽 SQL & MySQL. <br>
+
+**Project**
+
+Crypto exchange simulator.
